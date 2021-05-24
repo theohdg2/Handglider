@@ -1,0 +1,5 @@
+name : handglider
+api: [3.0.0]
+author: theovdw
+main: theovdw\Main
+version: 1.0.0
